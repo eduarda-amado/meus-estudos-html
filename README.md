@@ -1,2 +1,2 @@
-# meus-estudos-html-css
+# estudos-html-css
 Exercícios e projetos em HTML e CSS
